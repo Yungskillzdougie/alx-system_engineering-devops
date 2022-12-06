@@ -1,2 +1,2 @@
 #!/bin/bash
-vim ls_cwd_content
+cat > ls_cwd_content
